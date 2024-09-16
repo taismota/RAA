@@ -1,6 +1,6 @@
 #RAA 
 
-Hello! This the main project I have worked on so far. It has been the best learning experience of my life so far. As the lead in this project,
+Hello! This the main project I have worked. It has been the best learning experience of my life so far. As the lead in this project,
 I do a little bit of everything including managing a team, Solidworks Design, PCB design, soldering, 3D printing and others
 that I am probably forgetting. 
 
